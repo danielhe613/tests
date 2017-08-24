@@ -5,3 +5,5 @@ Not necessarily full demo or sample apps, but each one implementing a single sce
 ### Running
 
 `./mvnw --fail-at-end --update-snapshots clean package`
+
+Just a test.
